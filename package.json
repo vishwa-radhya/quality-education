@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/bebas-neue": "^5.2.5",
+    "@fontsource/poppins": "^5.2.5",
     "@google/genai": "^0.7.0",
+    "animate.css": "^4.1.1",
     "boring-avatars": "^1.11.2",
     "cohere-ai": "^7.16.0",
     "dotenv": "^16.4.7",
